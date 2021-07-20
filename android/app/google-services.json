@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10710948847",
+    "project_id": "linker-project-f8a99",
+    "storage_bucket": "linker-project-f8a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10710948847:android:f10025b9272d345427341a",
+        "android_client_info": {
+          "package_name": "com.alokeveer2001.vibez_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10710948847-n6c4dee2v2ul31lklcs9ad0ti0oao63i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpDXK0HFI5QhGv3NxXUYmtozKWPPurSQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10710948847-n6c4dee2v2ul31lklcs9ad0ti0oao63i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
